@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "environment": "New CPython 3.12 virtual environment, dependencies installed from pinned requirements.",
+  "platform": "macOS arm64",
+  "commands": [
+    "validate_hermite",
+    "recheck_numerics",
+    "validate_statistics",
+    "prepare_results",
+    "server_audit",
+    "retained_figures",
+    "figure8",
+    "publication_visuals",
+    "server_figures"
+  ],
+  "receipt_sha256": {
+    "paper_submission_final_20261017/audit/hermite_validation.json": "0f35bae8076dd28f5743c7e9956fda9142d703b7a78b2d74c3b81a0a5f8adf90",
+    "paper_server_revision_20261018/audit/integration_checks.json": "bc611467c9033fc7749b95c501d78d6660cf71dd9e49a6911b98bdcf649201d5",
+    "paper_server_revision_20261018/audit/server_final_review/acceptance_checks.json": "af542c6a300e0c41c3347ceb4d0cf097bd1067faafae4e8a748749bcf1db2fa4"
+  },
+  "scope": "Saved-output replay, continuous-extrema and statistical checks, vector figure regeneration. No optimization or physical experiment rerun.",
+  "packaging": "Two plan JSON reads use the documented packaging adapter; numerical kernels and raw archives are unchanged."
+}

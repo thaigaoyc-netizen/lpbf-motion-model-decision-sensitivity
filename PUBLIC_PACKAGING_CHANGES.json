@@ -1,0 +1,11 @@
+{
+  "file": "paper_server_revision_20261018/audit_server_results.py",
+  "original_sha256": "3cf858136828401272ca103a3762876a75cefb345a3c8e3d165a78645c21363a",
+  "public_sha256": "12aa830dce38c3e4bdceaa8c5df94f8213e1971c46a944af7b74cb5fd2a596ba",
+  "reason": "Read the same two frozen plan files directly instead of requiring an unrelated historical delivery ZIP.",
+  "plan_sha256": {
+    "geometry_portfolio_plans.json": "3292f53563be651efeca1d40b6d9ff0096e9266f87cd6d452c60ccfd5a5c26d4",
+    "prospective_geometry_plans.json": "03b3f61424d19d73a121496a288c3ffc7c802734c3dcbbdaf032eaadf9c2f7ee"
+  },
+  "numerical_changes": false
+}

@@ -1,0 +1,16 @@
+Original computed results, constructed geometries and research figures:
+Copyright (c) 2026 The study contributors.
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+License and full legal terms: https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribute this repository and its authors, cite the exact release, and indicate
+any changes. Do not imply author endorsement. No additional restrictions apply
+to rights granted by that license.
+
+Third-party released-layer workbooks:
+Yuxin Yang (2024), https://doi.org/10.5281/zenodo.12747089, CC BY 4.0.
+Files are unchanged. Cite this original source separately.
+
+Third-party libraries are not relicensed. Historical manuscript text is outside
+these code/data license grants. No claim of real scanner validation is made.
